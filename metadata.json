@@ -1,0 +1,8 @@
+{
+  "name": "Remix PromptCraft",
+  "description": "Generate high-quality AI prompts effortlessly with an intuitive design tool tailored for your specific creative needs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
